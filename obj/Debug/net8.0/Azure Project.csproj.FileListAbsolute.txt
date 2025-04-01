@@ -1,0 +1,30 @@
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\appsettings.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.staticwebassets.runtime.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.exe
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.deps.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.runtimeconfig.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.dll
+C:\Users\rajes\OneDrive\Desktop\Azure Project\bin\Debug\net8.0\Azure Project.pdb
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.AssemblyInfoInputs.cache
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.AssemblyInfo.cs
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.csproj.CoreCompileInputs.cache
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.RazorAssemblyInfo.cache
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.RazorAssemblyInfo.cs
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets\msbuild.Azure Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Azure Project.props
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Azure Project.props
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Azure Project.props
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\scopedcss\bundle\Azure Project.styles.css
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\scopedcss\projectbundle\Azure Project.bundle.scp.css
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.dll
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\refint\Azure Project.dll
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.pdb
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\Azure Project.genruntimeconfig.cache
+C:\Users\rajes\OneDrive\Desktop\Azure Project\obj\Debug\net8.0\ref\Azure Project.dll
